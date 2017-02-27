@@ -1,0 +1,179 @@
+==> ./cBioPortal/acbc_mskcc_2015/acbc_mskcc_2015/data_clinical.txt <==
+#Patient Identifier	Sample Identifier	Cancer Type	Cancer Type Detailed	Diagnosis Age	Tumor Size	Person Gender	Tumor Disease Anatomic Site	Primary Tumor Site	Sample Type	Metastatic Site	Tumor Stage	MYB_NFIB_FISH	MYB_NFIB_REARRANGEMENT	MYB-NFIB Fusion Gene Non-synonymous Mutations	MYB-NFIB Fusion Gene Copy Number Alterations	ER Status By IHC	IHC-HER2	PR status by ihc	Histology	Type of Surgery	Neoadjuvant Chemotherapy	Adjuvant Chemotherapy	Radiation Therapy	Adjuvant Treatment	Followup (years)	Overall Survival Status	Patient's Vital Status	LOCAL_REGIONAL_RECURRENCE	Metastatic tumor indicator	Time to Metastasis (months)	Platform	MYB or MYBL1 Fusion	Genomic Alterations	Oncotree Code
+
+==> ./cBioPortal/acc_tcga/acc/tcga/data_clinical_supp_oncotree.txt <==
+SAMPLE_ID	PATIENT_ID	ONCOTREE_CODE
+
+==> ./cBioPortal/acyc_fmi_2014/acyc_fmi_2014/data_clinical.txt <==
+#Patient Identifier	Sample Identifier	Diagnosis Age	Person Gender	Sample Type	Tumor Disease Anatomic Site	Primary Tumor Site	Metastatic tumor indicator	Metastatic Site	Tumor Grade	Tumor Stage	Genomic Alterations	Actionable Alterations	Platform	Cancer Type	Cancer Type Detailed	Oncotree Code
+
+==> ./cBioPortal/acyc_mda_2015/acyc_mda_2015/data_clinical.txt <==
+#Patient Identifier	Sample Identifier	Diagnosis Age	Person Gender	Tumor Disease Anatomic Site	Histology	Tumor Size	Perineural Invasion	MYB-NFIB Translocation	MYB or MYBL1 Fusion	Other NFIB Fusion	MYB_NFIB_REARRANGEMENT	Other Gene Fusion	MYB or MYBL1 Fusion Method	MYB_NFIB_FISH	Sample Type	Primary Tumor Site	Cancer Type	Cancer Type Detailed	Platform	Genomic Alterations	Oncotree Code
+
+==> ./cBioPortal/acyc_mskcc_2013/acyc_mskcc_2013/data_clinical.txt <==
+#Patient Identifier	Sample Identifier	Sample Type	MYB_NFIB_FISH	Person Gender	Diagnosis Age	Cancer Type	Cancer Type Detailed	Tumor Grade	Tumor Stage	Primary Tumor Site	Tumor Disease Anatomic Site	Perineural Invasion	Angiolymphatic Invasion	Adjuvant Treatment	Radiation Therapy	Disease Free (Months)	Overall Survival (Months)	Disease Free Status	Overall Survival Status	Disease Status	Metastatic tumor indicator	Metastatic Site	Official Pathology	Katabi Path	Histology	Platform	Genomic Alterations	Oncotree Code	MYB or MYBL1 Fusion
+
+==> ./cBioPortal/acyc_sanger_2013/acyc_sanger_2013/data_clinical.txt <==
+#Patient Identifier	Sample Identifier	Cancer Type	Cancer Type Detailed	Platform	Primary Tumor Site	Tumor Disease Anatomic Site	Histology	Person Gender	Diagnosis Age	MYB Activation	MYB Validation Method	Aberrant Cell Fraction	Sample Type	Genomic Alterations	Oncotree Code
+
+==> ./cBioPortal/all_stjude_2013/all_stjude_2013/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Oncotree Code	Gene Panel	Known Molecular Classifier	Diagnosis Age	Sex	Bone Marrow Leukemic Blast Percentage	DNA Index	Cytogenetics	Protocol	snapshot mutations	Focal Lesions At Relapse	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/all_stjude_2015/all_stjude_2015/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	MLL Status	Leukemia Type	Cohort	Diagnosis Age	Sex	Mutation Rate	Gene Panel	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/blca_bgi/blca_bgi/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Person Gender	Diagnosis Age	TNM	Subtype	Neoplasm Histologic Grade	Sample Type	Gene Panel	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/blca_dfarber_mskcc_2014/blca_dfarber_mskcc_2014/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Status	Chemotherapy Details	GERMLINE_TYPE	SILENT_MUTATION_RATE	NONSYNONYMOUS_MUTATION_RATE	MUTATIONS_PER_MB	TOTAL_NUMBER_OF_MUTATIONS	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/blca_mskcc_solit_2012/blca_mskcc_solit_2012/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Overall Survival Status	Overall Survival (Months)	Disease Free Status	Disease Free (Months)	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/blca_mskcc_solit_2014/blca_mskcc_solit_2014/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Sample Type	Sex	Diagnosis Age	Race Category	SMOKING_STATUS	Neoadjuvant Chemotherapy	Primary histology	Variant Histology	pT_STAGE	Concomitant Carcinoma in situ	LN_STATUS	SURGICAL_TREATMENT	Tissue Sequenced	Disease Free Status	Disease Free (Months)	Overall Survival Status	Death due to disease	Overall Survival (Months)	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/blca_plasmacytoid_mskcc_2016/blca_plasmacytoid_mskcc_2016/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Sample Display Name	Patient Display Name	Oncotree Code	Cancer Type	Sample Type	Gene Panel	Sex	Diagnosis Age	Year of Surgery	TUMOR_PATH_STAGE	TNM Stage	Lymph Node Status	Disease Free (Months)	Site of Recurrence	CLINICAL_STATUS	Overall Survival (Months)	Disease Free Status	Overall Survival Status	Metastatic Site	Primary Tumor Site	Sample Class	Specimen Preservation Type	Cancer Type Detailed
+
+==> ./cBioPortal/blca_tcga/blca/tcga/data_clinical_supp_oncotree.txt <==
+SAMPLE_ID	PATIENT_ID	ONCOTREE_CODE
+
+==> ./cBioPortal/blca_tcga_pub/blca_tcga_pub/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Batch Number	Diagnosis Age	Started Smoking Year	Primary Tumor Site	ClinicalAssessment	Year of Diagnosis	Subtype	Ethnicity Category	extracapsular spread	Person Gender	If Extracapsular Spread Present	IncidentalProstateCancer	LostToFollowUp	LymphNodesExamined	LymphovascularInvasion	MetastaticSite	MethodOfInitialPathologicDiagnosis	NewTumorEventAfterInitialTreatment	Nodes Ex	NumberOfPackYearsSmoked	OtherMetastaticSite	OtherMethodOfInitialPathologicalDiagnosis	OtherSiteOfNewTumorEvent	PathologicDistantSpread	PathologicSpreadIncidentalProstateCancer	PathologicSpreadPrimaryTumor	PathologicSpreadRegionalNodes	PriorTumor	ProspectiveCollection	Race Category	SiteOfNewTumorEvent	TobaccoSmokingHistory	TumorGrade	TumorStage	TypeOfNewTumorEvent	YearTobaccoSmokingCeased	tcgaBarcode	Overall Survival Status	Overall Survival (Months)	Disease Free Status	Disease Free (Months)	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/brca_bccrc/brca_bccrc/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	PAM50 subtype	IHC_BASAL	Diagnosis Age	Histological Type	Neoplasm Histologic Grade	Estimated Tumor Cellularity	Neoplasm American Joint Committee on Cancer Clinical Distant Metastasis M Stage	Neoplasm American Joint Committee on Cancer Clinical Regional Lymph Node N Stage	Tumor Size	Angiolymphatic Invasion	ER Status	PR Status	IHC-HER2	IHC_CK5/6	IHC_EGFR	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/brca_bccrc/brca_bccrc/xenograft_2014/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Sequencing Type	Sample Class	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/brca_bccrc_xenograft_2014/brca_bccrc_xenograft_2014/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Sequencing Type	Sample Class	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/brca_broad/brca_broad/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Cancer Type Detailed	Subtype	Diagnosis Age	Country	Person Gender	HER2 Status	HER2 Amplification Status	Menopausal_Status	Stage	ER Status	Neoplasm Histologic Grade	PR Status	Purity	Ploidy	Silent Mutation Rate	Non-silent_Rate	Cancer Type
+
+==> ./cBioPortal/brca_sanger/brca_sanger/2012/data_clinical.txt <==
+SAMPLE_ID	PATIENT_ID	ONCOTREE_CODE
+
+==> ./cBioPortal/brca_sanger/brca_sanger/2016/data_clinical.txt <==
+SAMPLE_ID	PATIENT_ID	SEX	AGE_AT_DIAGNOSIS	AGE_AT_LAST_FOLLOWUP	SPECIMEN_TYPE	OS_STATUS	VITAL_STATUS	DISEASE_STATUS	RELAPSE_INTERVAL_IN_DAYS	OS_MONTHS	DAYS_LAST_FOLLOWUP	TUMOR_GRADE	T_STAGE	N_STAGE	M_STAGE	BRCA_GERMLINE_MUTATIONS	PRE_OR_POST_TX	NORMAL_SITE	EST_TUMOR_CELLULARITY	SMOKING_HISTORY	EXPOSURE	PARITY	AGE_AT_BIRTH_OF_FIRST_CHILD	ORAL_CONTRACEPTION	ORAL_CONTRACEPTION_YEARS	MENOPAUSAL_STATUS_AT_DIAGNOSIS	HRT_HISTORY_YEARS	LYMPH_NODES_EXAMINED_POSITIVE	DCIS_GRADE	HISTOLOGICAL_SUBTYPE	TUBULE_SCORE	PLEOMORPHISM_SCORE	MITOTIC_SCORE	TOTAL_MITOSES	GRADE	LYMPHOVASCULAR_INVASION_INDICATOR	LYMPHOCYTE_INFILTRATION	TUMOR_BORDER	CENTRAL_SCAR_FIBROSIS	NECROSIS	INVASIVE_TUMOR_PERCENTAGE	CIS_PERCENTAGE	STROMA_PERCENTAGE	PERCENT_LYMPHOCYTE_INFILTRATION	ADIPOSE_TISSUE_PERCENTAGE	NORMAL_EPITHELIUM_PERCENTAGE	ER_STATUS	PR_STATUS	HER2_STATUS
+
+==> ./cBioPortal/brca_sanger/brca_sanger/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Diagnosis Age	HISTOPATHOLOGICAL_DIAGNOSIS	Tubule Score	Pleomorphism Score	Mitotic Score	Mitotic Count	Neoplasm Histologic Grade	ER Status	PR Status	HER2 Status	Aberrant Cell Fraction	Tumor Ploidy	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/brca_tcga/brca/tcga/data_clinical_supp_oncotree.txt <==
+SAMPLE_ID	PATIENT_ID	ONCOTREE_CODE
+
+==> ./cBioPortal/brca_tcga_pub/brca_tcga_pub/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Person Gender	Diagnosis Age	ER Status	PR Status	HER2 Final Status	Tumor	Tumor--T1 Coded	Node	Node-Coded	Metastasis	Metastasis-Coded	AJCC Stage	Converted Stage	Survival Data Form	Overall Survival Status	Overall Survival (Months)	PAM50 Subtype	SigClust Unsupervised mRNA	SigClust Intrinsic mRNA	miRNA Clusters	methylation Clusters	RPPA Clusters	CN Clusters	Integrated Clusters (with PAM50)	Integrated Clusters (no exp)	Integrated Clusters (unsup exp)	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/ccrcc_utokyo_2013/ccrcc_utokyo_2013/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Person Gender	Diagnosis Age	Stage At Diagnosis	Neoplasm Histologic Grade	Sarcomatoid Component	Metastatic Site	Patient's Vital Status	Follow up time months	VHL Mutation (Codon)	VHL Mutation (AA)	Gene Expression Cluster	Gene Panel	Cohort	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/cellline_ccle_broad/cellline_ccle_broad/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Person Gender	Primary Tumor Site	Histology	Tumor Other Histologic Subtype	Tumor Type	Cancer Type	Data Source	Cancer Type Detailed
+
+==> ./cBioPortal/cesc_tcga/cesc/tcga/data_clinical_supp_oncotree.txt <==
+SAMPLE_ID	PATIENT_ID	ONCOTREE_CODE
+
+==> ./cBioPortal/chol_nccs_2013/chol_nccs_2013/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Person Gender	Diagnosis Age	Country	Race Category	Anatomical Subtype	anti_O_viverrini_IgG	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/chol_nus_2012/chol_nus_2012/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Person Gender	Diagnosis Age	TNM Stage	Stage	Histological Type	Overall Survival (Months)	Overall Survival Status	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/chol_tcga/chol/tcga/data_clinical_supp_oncotree.txt <==
+SAMPLE_ID	PATIENT_ID	ONCOTREE_CODE
+
+==> ./cBioPortal/cll_iuopa_2015/cll_iuopa_2015/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Oncotree Code	IGHV Mutated	IGHV Identity (%)	IGHV Gene	Epigenetic	Exome Capture	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/coadread_dfci_2016/coadread_dfci_2016/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Diagnosis Age	Sex	Tumor Site	Tumor Stage	Tumor Grade	tumor purity	Percent Necrosis	MSI Status	CIMP Category	Oncotree Code	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/coadread_genentech/coadread_genentech/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Tumor Type	Diagnosis	Tissue Source Site	MSI Status	STR (affected/tested)	tumor content	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/coadread_mskcc/coadread_mskcc/data_clinical.txt <==
+#Sample Identifier	Sample Type	Patient Identifier	Overall Survival Status	Primary Tumor Site	Metastatic Site	Tumor Size	Resection timing	Tumor treated	Months_followup	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/coadread_tcga/coadread/tcga/data_clinical_supp_oncotree.txt <==
+SAMPLE_ID	PATIENT_ID	ONCOTREE_CODE
+
+==> ./cBioPortal/coadread_tcga_pub/coadread_tcga_pub/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Sequenced	Copy Number	MRNA Data	METHYLATION	MSI Status	Methylation Subtype	iCluster	MLH1 Silencing	Expression Subtype	Hyper-mutated	Cancer Type	Tumor Other Histologic Subtype	Primary Tumor Site	Person Gender	Cancer Type Detailed	Primary Tumor Pathologic Spread	Tumor Stage 2009	Overall Survival Status	Overall Survival (Months)
+
+==> ./cBioPortal/cscc_dfarber_2015/cscc_dfarber_2015/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Other Sample ID	Diagnosis Age	Person Gender	Smoker	Immune Status	Disease Free Status	Second Primary Cancer	Merkel Cell	Overall Survival Status	Radiation Therapy	Progress Free Survival (Months)	Overall Survival (Months)	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/ctcl_columbia_2015/ctcl_columbia_2015/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Cancer Type	Oncotree Code	Cancer Type Detailed
+
+==> ./cBioPortal/desm_broad_2015/desm_broad_2015/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Cohort	SOURCE	Gene Panel	Platform	Secondary Platform	Total Mutations	Detailed Sample Histology Category	Tumor Other Histologic Subtype	Diagnosis Age	Anatomic Region	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/dlbc_broad_2012/dlbc_broad_2012/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Oncotree Code	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/egc_tmucih_2015/egc_tmucih_2015/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Diagnosis Age	Sex	Location	Subtype	Neoplasm Histologic Grade	Neoplasm American Joint Committee on Cancer Clinical Primary Tumor T Stage	Neoplasm American Joint Committee on Cancer Clinical Regional Lymph Node N Stage	Neoplasm American Joint Committee on Cancer Clinical Distant Metastasis M Stage	Platform	DNA Repair Status	EBV Present	EBV Status	Stage	Overall Survival Status	Overall Survival (Months)	CDH1 Status	Clonal Label	TP53 Mutation	ARID1A Mutation	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/es_iocurie_2014/es_iocurie_2014/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Person Gender	Diagnosis Age	Primary tissue	Primary Tumor Site	Localized or Metastaic at Diagnosis	Disease Free (Months)	Overall Survival (Months)	EFS_STATUS	Disease Free Status	Patient's Vital Status	Overall Survival Status	Fusion	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/esca_broad/esca_broad/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Sex	Diagnosis Age	Ethnicity Category	Tumor Site	Primary Other Site of Disease Name	Neoplasm Histologic Grade	Barretts Esophagus	American Joint Committee on Cancer Tumor Stage Code	Neoplasm Disease Lymph Node Stage American Joint Committee on Cancer Code	Neoplasm American Joint Committee on Cancer Clinical Distant Metastasis M Stage	Smoker	Person Cigarette Smoking History Pack Year Value	Non Silent per Mb	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/esca_tcga/esca/tcga/data_clinical_supp_oncotree.txt <==
+SAMPLE_ID	PATIENT_ID	ONCOTREE_CODE
+
+==> ./cBioPortal/escc_icgc/escc_icgc/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Person Gender	Diagnosis Age	Neoplasm Histologic Grade	Overall Survival Status	Overall Survival (Months)	Tumor Stage	TNM	Smoker	Drinker	Platform	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/escc_ucla_2014/escc_ucla_2014/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Person Gender	Diagnosis Age	Pathological Diagnosis	Primary Tumor Size	Regional Lymph Node	Tumor Differentiation	Gene Panel	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/gbc_shanghai_2014/gbc_shanghai_2014/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Person Gender	Diagnosis Age	Lymph Nodes Metastasis	TNM Stage	Neoplasm Histologic Grade	Perineural Invasion	Tumor Disease Anatomic Site	Overall Survival Status	Time to Last Followup	ErbB Pathway Mutation	Gene Panel	Gallbladder Stone	Margin Status	Jaundice	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/gbm_tcga/gbm/tcga/data_clinical_supp_oncotree.txt <==
+SAMPLE_ID	PATIENT_ID	ONCOTREE_CODE
+
+==> ./cBioPortal/gbm_tcga_pub/gbm_tcga_pub/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Person Gender	Cancer Type	Treatment Status	Sample Type	ICD-10 Classification	Pre-treatment History	Prior Glioma	Karnofsky Performance Score	Overall Survival Status	Overall Survival (Months)	Disease Free Status	Disease Free (Months)	ACGH Data	MRNA Data	Sequenced	Complete Data	Cancer Type Detailed
+
+==> ./cBioPortal/gbm_tcga_pub2013/gbm_tcga_pub2013/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Diagnosis Age	Person Gender	Overall Survival Status	Overall Survival (Months)	Disease Free Status	Disease Free (Months)	THERAPY_CLASS	Expression Subtype	MGMT Status	2012_METHYLATION_CLASS	G-CIMP_METHYLATION	IDH1_STATUS	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/hnsc_broad/hnsc_broad/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Tumor Disease Anatomic Site	Sample Type	Drinker	Patient Smoking History Category	Smoking History	Person Cigarette Smoking History Pack Year Value	Tumor HPV ISH	Tumor HPV PCR	Tumor HPV PATHSEQ	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/hnsc_jhu/hnsc_jhu/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Primary Tumor Site	Smoker	HPV Status	Neoplasm American Joint Committee on Cancer Clinical Primary Tumor T Stage	Neoplasm American Joint Committee on Cancer Clinical Regional Lymph Node N Stage	Neoplasm American Joint Committee on Cancer Clinical Distant Metastasis M Stage	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/hnsc_tcga/hnsc/tcga/data_clinical_supp_oncotree.txt <==
+SAMPLE_ID	PATIENT_ID	ONCOTREE_CODE
+
+==> ./cBioPortal/hnsc_tcga_pub/hnsc_tcga_pub/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	HPV Status	Primary Tumor Site	Overall Survival Status	Overall Survival (Months)	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/laml_tcga_pub/laml_tcga_pub/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Sex	Race Category	FAB	Diagnosis Age	Bone Marrow Blast Percentage	WBC	PB Blast Percentage	AML in Skin Percentage	SUBCLONES	Cytogenetics	Inferred Genomic Rearrangement	Cytogenetic Code (Other)	Risk (Cyto)	Tumor Other Histologic Subtype	Risk (Molecular)	Structural Variants	Disease Free (Months)	Disease Free Status	Induction	Transplant Type	DZ Stat	Overall Survival (Months)	Overall Survival Status	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/lcll_broad_2013/lcll_broad_2013/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Oncotree Code	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/lgg_tcga/lgg/tcga/data_clinical_supp_oncotree.txt <==
+SAMPLE_ID	PATIENT_ID	ONCOTREE_CODE
+
+==> ./cBioPortal/liad_inserm_fr_2014/liad_inserm_fr_2014/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Oncotree Code	Diagnosis Age	Sex	Oral Contraception	Associated Genetic Metabolic Diseases	BMI	Number of Nodules	Nodule Size (mm)	Liver fibrosis ishak score category	Pathological Diagnosis	Known Molecular Classifier	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/paac_jhu_2014/paac_jhu_2014/data_clinical.txt <==
+#Sample Identifier	Patient Identifier	Diagnosis	Immunohistochemistry	Stage	Diagnosis Age	Sex	Ethnicity Category	Cancer Type	Cancer Type Detailed
+
+==> ./cBioPortal/prad_cpcg_2017/prad_cpcg_2017/data_clinical.txt <==
+PATIENT_ID	SAMPLE_ID	CANCER_TYPE	ONCOTREE_CODE	PLATFORM	AGE	BIOCHEMICAL_RECURRENCE_INDICATOR	BONE_SCAN_RESULT	CELLULARITY	COHORT	CT_SCAN_AB_PELVIS_INDICATOR	CT_SCAN_AB_PELVIS_RESULTS	DAYS_TO_BIOCHEMICAL_RECURRENCE_FIRST	DAYS_TO_BIRTH	DAYS_TO_BONE_SCAN_PERFORMED	DAYS_TO_COLLECTION	DAYS_TO_CT_SCAN_AB_PELVIS	DAYS_TO_DEATH	DAYS_TO_INITIAL_PATHOLOGIC_DIAGNOSIS	DAYS_TO_LAST_FOLLOWUP	DAYS_TO_MRI	DAYS_TO_PSA	DFS_MONTHS	DFS_STATUS	DIAGNOSTIC_MRI_RESULT	ERG_FISH_RESULT	ETHNICITY	ETS	FORM_COMPLETION_DATE	FRACTION_GENOME_ALTERED	GENDER	GLEASON_PATTERN_PRIMARY	GLEASON_PATTERN_SECONDARY	GLEASON_PATTERN_TERTIARY	GLEASON_SCORE	GLEASON_SCORE_PERCENT_4_AND_5	HISTOLOGICAL_DIAGNOSIS	HISTORY_NEOADJUVANT_TRTYN	HISTORY_OTHER_MALIGNANCY	ICD_10	ICD_O_3_HISTOLOGY	ICD_O_3_SITE	INFORMED_CONSENT_VERIFIED	INITIAL_PATHOLOGIC_DIAGNOSIS_METHOD	INITIAL_PATHOLOGIC_DX_YEAR	INITIAL_WEIGHT	IS_FFPE	LATERALITY	LONGEST_DIMENSION	LYMPH_NODE_EXAMINED_COUNT	LYMPH_NODES_EXAMINED	LYMPH_NODES_EXAMINED_HE_COUNT	MRI_RESULTS	NEW_TUMOR_EVENT_AFTER_INITIAL_TREATMENT	OCT_EMBEDDED	OS_MONTHS	OS_STATUS	PATHOLOGY_REPORT_FILE_NAME	PATHOLOGY_REPORT_UUID	PLOIDY	PRIMARY_SITE	PROSPECTIVE_COLLECTION	PSA_MOST_RECENT_RESULTS	PURITY_ABSOLUTE	RACE	RADIATION_TREATMENT_ADJUVANT	RESIDUAL_TUMOR	RETROSPECTIVE_COLLECTION	SAMPLE_TYPE	SAMPLE_TYPE_ID	SHORTEST_DIMENSION	SPECIMEN_SECOND_LONGEST_DIMENSION	TARGETED_MOLECULAR_THERAPY	TISSUE_SOURCE_SITE	TREATMENT	TREATMENT_OUTCOME_FIRST_COURSE	TUMOR_LEVEL	TUMOR_STATUS	TUMOR_TISSUE_SITE	VIAL_NUMBER	VITAL_STATUS	WGS_BASED_PURITY_ESTIMATION	CLIN_M_STAGE	CLIN_T_STAGE	FAMILY_HISTORY_PRAD	PATH_N_STAGE	PATH_T_STAGE
