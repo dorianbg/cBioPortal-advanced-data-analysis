@@ -8,7 +8,10 @@ could be clustered together into types of studies based on the attributes measur
 The goal of the project was to develop a clustering algorithm that would recognize and cluster all of the studies into different study types.  
 
 In the Jupyter notebook I did the following:  
-First I parsed data from a REST API providing data in JSON format into pandas dataframes.  
-Then I showed graphically the results of clustering of studies based on measured attributes.  
-Lastly, I implemented similarity scoring functions to score the similarity of studies based on values of attributes (columns in a table) and graphically plotted those results in a heatmap using Seaborn package.
+
+1) First I parsed data from a REST API providing data in JSON format into pandas dataframes.  
+
+2) Then I showed graphically the results of clustering of studies based on names measured attributes (names of columns)  
+
+3) Lastly, I implemented similarity scoring functions to score the similarity of studies based on values of attributes (columns in a table) and graphically plotted those results in a heatmap using Seaborn package.
 
